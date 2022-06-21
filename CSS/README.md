@@ -32,3 +32,62 @@ A. Selector Basic
   * {
   color : red;
    }
+  ````
+   
+B. Combinators
+   1. adjecent sibling selector(+)
+   --> menggabungkan dua buah basic selector dengan mengggunakan tanda + diantara keduanya, namun hanya menerapkan pada elemen kedua.
+   ```
+   img + p {
+          color : green;
+   }
+   ````
+   
+  2. General Sibling selector (~)
+    --> menerapkan pada seluruh elemen setelah elemen pertama
+    ```
+    img ~ p {
+          color : green;
+     }
+    ````
+    
+   3. Descendant Selector (space)
+   --> basic selector pertama ditulis sebagai induk, basic selector kedua yang akan menerapkan rule.
+   ```
+   div p {
+      color : red;
+    }
+   ````
+   
+  C. Pseudo-Class
+  1.  Pseudo-class selector
+  
+   ```
+   
+      /* rule akan diterapkan pada sebuah tautan yang belum pernah  dikunjungi */
+      a:link {
+         color: red;
+      }
+ 
+    /* rule akan diterapkan pada sebuah tautan yang sudah pernah dikunjungi */
+      a:visited {
+         color: green;
+      }
+ 
+    /* rule akan diterapkan pada sebuah tautan ketika diarahkan dengan kursor */
+      a:hover {
+         color: pink;
+      }
+ 
+    /* rule akan diterapkan pada sebuah tautan ketika ditekan */
+      a:active {
+         color:orange;
+      }
+   ```
+   
+   2. pseudo-elemen selector
+   --> ``::before`` , ``::after``
+   
+
+  
+    

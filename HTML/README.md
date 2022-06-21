@@ -42,4 +42,16 @@
             <li>Item 2</li>
          </ol> 
    
-   
+   D. Jenis Gambar
+   <table border="1" cellpadding="10">
+        <tr>
+            <td>Format</td>
+            <td>.jpg, .jpeg, .jfif, .pjpeg, .pjp</td>
+            <td>.png,.svg</td>
+        </tr>
+        <tr>
+            <td>Keterangan</td>
+            <td>kualitas gambar dapat menjadi buruk</td>
+            <td>kualitas gambar menjadi baik dan terbaca</td>
+        </tr>
+    </table>

@@ -42,7 +42,56 @@
             <li>Item 2</li>
          </ol> 
    
-   D. Jenis Gambar
+  
+   D. Teks format
+   
+   1. long quotations adalah sebuah paragraf, heading ataupun list
+  
+       ```
+        <blockquote>
+          <p>nama saya adalah sakura</p>
+        </blockquote>
+        ````
+        hasil :
+       <blockquote>
+          <p>nama saya adalah sakura</p>
+        </blockquote>
+    
+  2. pre adalah line breaks untuk baris baru
+        ```
+        <pre>
+           Senja
+           
+           sudah tampak di ujung mata 
+           kau pergi dalam kehangatan
+           dirimu datang hanya sementara
+           diantara cerianya alam yang menerpa
+        </pre>
+        ````
+        hasil :
+        <pre>
+           Senja
+           
+           sudah tampak di ujung mata 
+           kau pergi dalam kehangatan
+           dirimu datang hanya sementara
+           diantara cerianya alam yang menerpa
+        </pre>
+        
+   3. Figure adalah elemen yang digunakan untuk gambar
+        ```
+        <figure>
+          <img src="https://upload.wikimedia.org/wikipedia/id/thumb/c/c4/Telkom_Indonesia_2013.svg/1200px-Telkom_Indonesia_2013.svg.png" width="150px">
+          <figcaption>telkom</figcaption>
+        </figure>
+        ````
+        hasil :
+          <figure>
+          <img src="[https://id.wikipedia.org/wiki/Telkom_Indonesi](https://upload.wikimedia.org/wikipedia/id/thumb/c/c4/Telkom_Indonesia_2013.svg/1200px-Telkom_Indonesia_2013.svg.png)"         width="150px">
+          <figcaption>telkom</figcaption>
+        </figure>
+  
+   E. Jenis Gambar
 
    <table border="1" cellpadding="10">
         <tr>
@@ -56,21 +105,5 @@
             <td>kualitas gambar menjadi baik dan terbaca</td>
         </tr>
     </table>
-   
-   
-   E. Teks format
-     1. long quotations
-    --> <blockquote> adalah sebuah paragraf, heading ataupun list
-    ```
-    <blockquote>
-      <p>nama saya adalah sakura</p>
-    </blockquote>
-    ```
-    
-    <blockquote>
-      <p>nama saya adalah sakura</p>
-    </blockquote>
-    
-    2. 
-    
+        
     

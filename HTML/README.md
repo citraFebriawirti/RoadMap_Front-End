@@ -43,6 +43,7 @@
          </ol> 
    
    D. Jenis Gambar
+
    <table border="1" cellpadding="10">
         <tr>
             <td>Format</td>
@@ -55,3 +56,21 @@
             <td>kualitas gambar menjadi baik dan terbaca</td>
         </tr>
     </table>
+   
+   
+   E. Teks format
+     1. long quotations
+    --> <blockquote> adalah sebuah paragraf, heading ataupun list
+    ```
+    <blockquote>
+      <p>nama saya adalah sakura</p>
+    </blockquote>
+    ```
+    
+    <blockquote>
+      <p>nama saya adalah sakura</p>
+    </blockquote>
+    
+    2. 
+    
+    

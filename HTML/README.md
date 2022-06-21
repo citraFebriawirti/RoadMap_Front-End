@@ -81,13 +81,12 @@
    3. Figure adalah elemen yang digunakan untuk gambar
         ```
         <figure>
-          <img src="https://upload.wikimedia.org/wikipedia/id/thumb/c/c4/Telkom_Indonesia_2013.svg/1200px-Telkom_Indonesia_2013.svg.png" width="150px">
+          <img src="https://media.suara.com/pictures/653x366/2022/06/10/10967-digital-talent-readiness-menjadi-salah-satu-bagian-tes-pt-telkom-telkom.webp" width="150px">
           <figcaption>telkom</figcaption>
         </figure>
         ````
         hasil :
-          <figure>
-          <img src="[https://id.wikipedia.org/wiki/Telkom_Indonesi](https://upload.wikimedia.org/wikipedia/id/thumb/c/c4/Telkom_Indonesia_2013.svg/1200px-Telkom_Indonesia_2013.svg.png)"         width="150px">
+        <figure >                                                              <img src="https://media.suara.com/pictures/653x366/2022/06/10/10967-digital-talent-readiness-menjadi-salah-satu-bagian-tes-pt-telkom-telkom.webp" width="300px"><br>
           <figcaption>telkom</figcaption>
         </figure>
   

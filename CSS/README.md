@@ -88,6 +88,12 @@ B. Combinators
    2. pseudo-elemen selector
    --> ``::before`` , ``::after``
    
+   
+   D. Box-Shadow
+   --> untuk memberikan shadow pada box agar kelihatan 3d
+   ```
+   box-shadow:rata_atas_bawah rata_kiri_kanan jarak_bayangan ketebalan_bayangan warna;
+   ````
 
   
     

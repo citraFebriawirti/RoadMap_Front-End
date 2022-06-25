@@ -14,7 +14,7 @@
        
    C. List
    --> digunakan untuk urutan dari daftar yang terstruktur atau tidak terstruktur
-   1. unoderlist (tidak memiliki urutan)
+   1. unorderlist (tidak memiliki urutan)
    
        ``` 
        <ul>
@@ -28,7 +28,7 @@
             <li>Item 2</li>
          </ul> 
          
-   2. oderlist (memiliki urutan)
+   2. orderlist (memiliki urutan)
    
        ``` 
        <ol type="1">

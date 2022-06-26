@@ -45,11 +45,11 @@ B. Combinators
    
   2. General Sibling selector (~)
     --> menerapkan pada seluruh elemen setelah elemen pertama
-    ```
-    img ~ p {
-          color : green;
-     }
-    ````
+      ```
+       img ~ p {
+             color : green;
+          }
+      ```
     
    3. Descendant Selector (space)
    --> basic selector pertama ditulis sebagai induk, basic selector kedua yang akan menerapkan rule.

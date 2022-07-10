@@ -95,5 +95,8 @@ B. Combinators
    box-shadow:rata_atas_bawah rata_kiri_kanan jarak_bayangan ketebalan_bayangan warna;
    ````
 
+  E. Display
+     1. Display : none -> digunakan untuk menyembunyikan elemen serta berpengaruh terhadap elemen disekitarnya
+     2. Visibility : hidden -> digunakan untuk menyembunyikan element tetapi tidak berpengaruh terhadap elemen disekitarnya
   
     

@@ -96,7 +96,6 @@ B. Combinators
    ````
 
   E. Display <br>
- 
      1. Display : none -> digunakan untuk menyembunyikan elemen serta berpengaruh terhadap elemen disekitarnya <br>
      2. Visibility : hidden -> digunakan untuk menyembunyikan element tetapi tidak berpengaruh terhadap elemen disekitarnya <br>
   

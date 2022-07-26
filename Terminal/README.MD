@@ -3,8 +3,8 @@
 ## Basic
 <table>
 <tr>
-   <th>Perintah</td>
-   <th>Keterangan</td>
+   <th>Perintah</th>
+   <th>Keterangan</th>
 </tr>
 <tr>
   <td>call</td>

@@ -58,3 +58,16 @@
    <td>menerima commit dari repo</td>
 </tr>
 </table>
+
+>Git
+A. Buat Repo di Git
+```
+1. git init
+2. git status
+3. git add .
+4. git status
+5. git commit -m "keterangan...."
+6. git status
+
+```
+

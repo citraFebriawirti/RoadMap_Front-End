@@ -1,9 +1,11 @@
 # Version Control
 
 Git adalah sebuah VCS yang terdistribusi untuk mengelola perubahan file dalam folder yang ada berupa CLI(command line interface)
+
 Download : https://git-scm.com/
 
 Github adalah sebuah instagram para programmer
+
 Download : https://github.com/
 
 ## Istilah Git

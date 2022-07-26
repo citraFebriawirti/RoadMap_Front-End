@@ -1,41 +1,10 @@
 # RoadMap_Front-End
-<table>
-<tr>
-   <th>Langkah</th>
-   <th>Topik</th>
-   <th>Materi</th>
-   <th>Reference</th>
-</tr>
-<tr>
-   <td>1</td>
-  <td>Terminal</td>
-   <td>Otw</td>
-   <td></td>
-</tr>
-<tr>
-  <td>2</td>
-  <td>Version Control</td>
-   <td>Otw</td>
-   <td></td>
-</tr>
-<tr>
-  <td>3</td>
-  <td>HTML</td>
-   <td>Otw</td>
-   <td></td>
-</tr>
-<tr>
-  <td>3</td>
-  <td>CSS</td>
-   <td>Otw</td>
-   <td></td>
-</tr>
-<tr>
-  <td>4</td>
-  <td>JavaScript</td>
-   <td>Otw</td>
-   <td></td>
-</tr>
-</table>
-                                                                 
+ 
+Langkah |          Topik           |                              Target Pembelajaran                               |                               Materi                               |                                           |
+| :-----: | :----------------------: | :----------------------------------------------------------------------------: | :----------------------------------------------------------------: | :-----------------------------------------------------------
+|   01    |        Terminal        |                             Pengenalan apa itu terminal                             |             [Terminal](learn/ES6/001_introduction)             |                              
+|   02    |        Version Control        |                  Pengenalan apa itu version control                 |                 [Version Control](learn/ES6/002_variable)                 |  
+|   03    |      HTML      |                Pengenalan apa itu HTML               |           [HTML](learn/ES6/003_arrow_function)           |     
+|   04    |   CSS    |         Pengenalan apa itu css           |        [CSS](learn/ES6/004_template_literals)        |    
+|   05    | Javascript |    Pengenalan apa itu javascript   | [Javascript](learn/ES6/006_destructuring_assignment) |
 

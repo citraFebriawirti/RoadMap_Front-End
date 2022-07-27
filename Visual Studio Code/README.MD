@@ -1,4 +1,4 @@
-# Vsual Studio Code
+# Visual Studio Code
 
 ![image](https://user-images.githubusercontent.com/83469523/181283798-7f22f12f-019a-4348-b297-5e30f9678b5a.png)
 
@@ -60,4 +60,23 @@
    atau
    Alt + | (bawah)
    ```
-   
+ 5. menghapus baris 
+    ```
+    ctrl + shift + k
+    ```
+    
+ 6. menyeleksi kata
+    ```
+    ctrl + d
+    ```
+ 7. menyeleksi semua kata 
+    ```
+    ctrl + shift + L
+    ```
+ 8. buka metod
+    ```
+    ctrl + p lalu @
+    ctrl + p lalu :
+    ctrl + p lalu #
+    ```
+    
